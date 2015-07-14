@@ -1,5 +1,0 @@
-c:\users\h162524\documents\visual studio 2013\Projects\ApplicationToInstall\ApplicationToInstall\bin\Debug\ApplicationToInstall.exe.config
-c:\users\h162524\documents\visual studio 2013\Projects\ApplicationToInstall\ApplicationToInstall\bin\Debug\ApplicationToInstall.exe
-c:\users\h162524\documents\visual studio 2013\Projects\ApplicationToInstall\ApplicationToInstall\bin\Debug\ApplicationToInstall.pdb
-c:\users\h162524\documents\visual studio 2013\Projects\ApplicationToInstall\ApplicationToInstall\obj\Debug\ApplicationToInstall.exe
-c:\users\h162524\documents\visual studio 2013\Projects\ApplicationToInstall\ApplicationToInstall\obj\Debug\ApplicationToInstall.pdb
